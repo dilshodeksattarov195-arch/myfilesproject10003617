@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionverify",
+        "uuid": 17253090,
+        "checksum": "ekw7xn"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
